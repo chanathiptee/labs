@@ -18,7 +18,7 @@ with open('model.pkl','rb') as f:
 
 
 #set title application
-st.title("Image Classification with MobileNetV2 by Kittiphot Polaha")
+st.title("Image Classification with MobileNetV2 by Chanathip Sirisrisermwong")
 
 #file upload
 upload_file  = st.file_uploader("Upload image:",type=["jpg","jpeg","png"])
